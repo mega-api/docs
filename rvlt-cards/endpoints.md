@@ -40,6 +40,14 @@ Image URL
 ```
 {% endtab %}
 
+{% tab title="403" %}
+```json
+{
+    "error": "Unauthorized request"
+}
+```
+{% endtab %}
+
 {% tab title="500" %}
 ```json
 {
