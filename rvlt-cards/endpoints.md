@@ -8,6 +8,10 @@ description: RVLT Cards Endpoints
 To gain access to use this API you must donate $4 or more. You can get one API Key per every $4. Please contact Best after donating.
 {% endhint %}
 
+{% hint style="info" %}
+The rvlt cards API will become more customizable in the future with the ability to create more than rank cards.
+{% endhint %}
+
 The rvlt cards URL is: [https://rvlt-cards.vercel.app](https://rvlt-cards.vercel.app)
 
 ## Render a card

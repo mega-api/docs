@@ -4,6 +4,10 @@ description: Cheesy API Endpoints
 
 # Endpoints
 
+{% hint style="info" %}
+Contact Best to recieve **ONE** API Key. We may monetize this API in the future if demand is too much for us to handle.
+{% endhint %}
+
 The cheesy-api URL is: [https://cheesy-api.vercel.app/](https://cheesy-api.vercel.app/)
 
 ## Upload a Cheese
