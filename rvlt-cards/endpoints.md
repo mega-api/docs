@@ -22,10 +22,10 @@ Image rendering
 
 **Headers**
 
-| Name         | Value       |
-| ------------ | ----------- |
-| Content-Type | `image/png` |
-| api-key      | `api-key`   |
+| Name          | Value        |
+| ------------- | ------------ |
+| Content-Type  | `image/png`  |
+| Authorization | `my-api-key` |
 
 **Body**
 
